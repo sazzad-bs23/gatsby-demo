@@ -1,0 +1,18 @@
+{
+    "My First Gatsby Site": "Mon premier site Gatsby",
+    "home": "Accueil",
+    "about": "Environ",
+    "blog": "Blog",
+    "users": "Utilisateurs",
+    "tags": "Mots clés",
+    "Home Page": "Page d'accueil",
+    "About Me": "À propos de moi",
+    "My Blog Posts": "Mes articles de blog",
+    "Our Users": "Nos utilisateurs",
+    "GLPG tags": "GLPG Mots clés",
+    "I'm making this by following the Gatsby Tutorial.": "Je fais cela en suivant le didacticiel Gatsby.",
+    "subtitle_about": "Salut! Je suis le fier créateur de ce site, que j'ai construit avec Gatsby.",
+    "welcome_message": "Bienvenue sur mon site Gatsby !",
+    "my_name": "Je m'appelle Shanika",
+    "my_profession": "Ma profession est ESS"
+}
